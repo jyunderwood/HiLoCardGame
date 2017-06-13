@@ -1,0 +1,14 @@
+{
+  "name": "hilocardgame",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "config": {
+    "applicationName": "hilocardgame",
+    "applicationId": "amzn1.ask.skill.292b2788-95ef-4aaf-95db-1a45b6b9c4ea"
+  },
+  "dependencies": {
+    "alexa-app": "^4.0.1",
+    "lodash": "^4.17.4"
+  }
+}
